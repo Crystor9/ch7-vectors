@@ -1,5 +1,7 @@
 # Exercise 2: indexing and filtering vectors
-
+install.packages("tidyverse")
+install.packages("styler")
+install.packages("lintr")
 # Create a vector `first_ten` that has the values 10 through 20 in it (using 
 # the : operator)
 first_ten <- 10:20
